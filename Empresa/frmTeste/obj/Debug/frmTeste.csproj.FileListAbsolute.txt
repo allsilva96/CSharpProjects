@@ -1,0 +1,9 @@
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\bin\Debug\frmTeste.exe.config
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\bin\Debug\frmTeste.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\bin\Debug\frmTeste.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\obj\Debug\frmTeste.csprojResolveAssemblyReference.cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\obj\Debug\frmTeste.frmTeste.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\obj\Debug\frmTeste.Properties.Resources.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\obj\Debug\frmTeste.csproj.GenerateResource.Cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\obj\Debug\frmTeste.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\frmTeste\obj\Debug\frmTeste.pdb

@@ -1,0 +1,11 @@
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\bin\Debug\ExercicioAula4.exe.config
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\bin\Debug\ExercicioAula4.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\bin\Debug\ExercicioAula4.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.Properties.Resources.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.csproj.GenerateResource.Cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.FrmAula4.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.csprojResolveAssemblyReference.cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.FrmMedia.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\ExercAula4_ProfGilberto\ExercicioAula4\obj\Debug\ExercicioAula4.frmSalario.resources

@@ -1,0 +1,8 @@
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\obj\Debug\Farmacia.FrmLogin.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\Farmacia\bin\Debug\Farmacia.pdb

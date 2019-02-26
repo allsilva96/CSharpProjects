@@ -1,0 +1,9 @@
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\bin\Debug\PictureBoxZoom.exe.config
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\bin\Debug\PictureBoxZoom.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\bin\Debug\PictureBoxZoom.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\obj\Debug\PictureBoxZoom.csprojResolveAssemblyReference.cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\obj\Debug\PictureBoxZoom.Properties.Resources.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\obj\Debug\PictureBoxZoom.csproj.GenerateResource.Cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\obj\Debug\PictureBoxZoom.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\obj\Debug\PictureBoxZoom.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\PictureBoxZoom\PictureBoxZoom\obj\Debug\PictureBoxZoom.FrmZoom.resources

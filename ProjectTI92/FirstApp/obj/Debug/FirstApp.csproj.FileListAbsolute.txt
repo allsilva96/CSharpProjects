@@ -1,0 +1,9 @@
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\obj\Debug\FirstApp.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\ProjectTI92\FirstApp\obj\Debug\FirstApp.FrmLogin.resources

@@ -1,0 +1,11 @@
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\bin\Debug\DigitalStoreSystem.exe.config
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\bin\Debug\DigitalStoreSystem.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\bin\Debug\DigitalStoreSystem.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.frmMenuLogin.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.Properties.Resources.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.csproj.GenerateResource.Cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.frmMenuPrincipal.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\DigitalStore\DigitalStoreSystem\obj\Debug\DigitalStoreSystem.frmFuncionarios.resources

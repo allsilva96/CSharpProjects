@@ -1,0 +1,9 @@
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\obj\Debug\ProjetoTeste.frmTeste.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.Cache
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\andre.llsilva8\Documents\C# - Projects\Empresa\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
